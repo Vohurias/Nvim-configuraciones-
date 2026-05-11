@@ -1,0 +1,6 @@
+.lazy/
+*.log
+shada/
+swap/
+session/
+node_modules/
